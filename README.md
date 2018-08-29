@@ -1,10 +1,10 @@
-﻿# About *HandFlight*
+# About *HandFlight*
 
 # Demo Movie
 
-Demo movie is uploaded in the link below.  
-Please click the icon below.  
-<a href="https://www.youtube.com/watch?v=pXYbGP8qJtY" ><img src="https://raw.githubusercontent.com/kagechan5/yubisuma/master/youtube.svg?sanitize=true" width="50" ></a>  
+Demo movie is uploaded in the link below. 
+Please click the icon below. 
+<a href="https://www.youtube.com/watch?v=pXYbGP8qJtY" ><img src="https://raw.githubusercontent.com/kagechan5/yubisuma/master/youtube.svg?sanitize=true" width="50" ></a> 
 
 
 
