@@ -1,4 +1,5 @@
 # About *HandFlight*
+This is a game.
 
 # Demo Movie
 
